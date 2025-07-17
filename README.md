@@ -6,7 +6,7 @@
 Scarica Tampermonkey per il tuo browser: [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
 ### 2. Installa lo Script
-**[📥 Installa Script](https://github.com/belqit/pms_cambia_ora/releases/download/1.0/script.js)**
+**[📥 Installa Script](https://github.com/belqit/pms_cambia_ora/releases/download/1.0/script.user.js)**
 
 Clicca il link sopra e conferma l'installazione.
 
